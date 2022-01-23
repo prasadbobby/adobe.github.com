@@ -23,7 +23,7 @@ That's why we built this project on top of cutting-edge technologies like:
 
 The [Adobe Creative Cloud](http://www.adobe.com/products/creativecloud.html) is also a great asset for [designing](http://photoshop.com) and [coding](http://brackets.io) purposes.
 
-## Be in touch!
+## Be in touch!!
 
 We hope you love this new homepage. Any feedback, ideas or bugfixes are very much welcome. Here is the [Trello board](https://trello.com/b/eLlfvaVe/adobe-github-com) on which you can add your ideas. You can also check out the [wiki page](https://github.com/adobe/adobe.github.com/wiki) to know how to update the page easily. 
 
